@@ -1,16 +1,16 @@
-# myapp
+# Habit Tracker app
 
-A new Flutter project.
+A new Flutter project. completely build in Google's new project [IDX](https://idx.dev/)
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![dark](https://github.com/mshivam019/Meow-Speech/blob/main/screenshots/dark.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![light](https://github.com/mshivam019/Meow-Speech/blob/main/screenshots/light.png?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![iphone](https://github.com/mshivam019/Meow-Speech/blob/main/screenshots/ios.png?raw=true)
+
+
+![android](https://github.com/mshivam019/Meow-Speech/blob/main/screenshots/android.png?raw=true)
