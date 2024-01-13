@@ -175,7 +175,7 @@ class _HomePageState extends State<HomePage> {
           isCompleted: isCompletedToday,
           onChanged: (value) => checkHabitonOff(value, habit),
           editHabit: (context) => editHabitBox(habit),
-          deleteHabit: (context) => editHabitBox(habit),
+          deleteHabit: (context) => deleteHabitBox(habit),
         );
       },
     );

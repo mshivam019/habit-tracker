@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 
@@ -26,7 +25,7 @@ class MyHabitTile extends StatelessWidget {
               SlidableAction(
                 onPressed: editHabit,
                 backgroundColor: Colors.grey.shade800,
-                icon: Icons.settings,
+                icon: Icons.edit,
                 borderRadius: BorderRadius.circular(8),
               ),
               SlidableAction(

@@ -14,7 +14,7 @@
             manager = "flutter";
         }
         {
-            command = ["flutter" "run" "--machine" "-d" "android" "-d" "localhost:5555"];
+            command = ["flutter" "run" "--machine" "-d" "android" "-d" "emulator-5554"];
             id = "android";
             manager = "flutter";
         }
